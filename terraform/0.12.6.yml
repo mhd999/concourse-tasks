@@ -4,7 +4,7 @@ image_resource:
   type: docker-image
   source:
     repository: 987227049932.dkr.ecr.eu-west-1.amazonaws.com/hashicorp/terraform
-    tag: "full"
+    tag: "0.12.6"
 
 inputs:
 - name: source
